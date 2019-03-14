@@ -1,0 +1,64 @@
+body{
+  background-color: #556B35;
+}
+.melon{
+  background-image: url(icons/melon.png);
+  height: 48px;
+  width: 48px;
+  float: left;
+  border: 1px solid transparent;
+}
+.cucumber{
+  background-image: url(icons/cucumber.png);
+  height: 48px;
+  width: 48px;
+  float: left;
+  border: 1px solid transparent;
+}
+.tomato{
+  background-image: url(icons/tomato.png);
+  height: 48px;
+  width: 48px;
+  float: left;
+  border: 1px solid transparent;
+}
+.empty{
+
+  height: 48px;
+  width: 48px;
+  border: 1px solid green;
+  float: left;
+}
+.money{
+  background-image: url(icons/coin.png);
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+
+
+
+}
+.rat{
+  background-image: url(icons/mouse.png);
+  height: 48px;
+  width: 48px;
+  border: 1px solid green;
+  float: left;
+}
+#coin{
+  position: absolute;
+  top: 20px;
+  left: 600px;
+}
+#showMoney{
+  position: absolute;
+  top: 25px;
+  left: 650px;
+  color: gold;
+  font-size: 35px;
+}
+#garden{
+  height: 500px;
+  width: 500px;
+  border: 10px solid red
+}
