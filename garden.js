@@ -137,3 +137,7 @@ function gather(vegetable, r,c){
 
 
 show();
+
+
+
+1.plasati o capcana daca nimereste in capcana
